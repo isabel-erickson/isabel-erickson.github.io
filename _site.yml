@@ -1,0 +1,13 @@
+name: "Isabel Erickson"
+output_dir: "."
+navbar:
+  title: "Isabel Erickson"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css

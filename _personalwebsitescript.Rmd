@@ -1,0 +1,16 @@
+---
+title: "personal_website"
+author: "Isabel Erickson"
+date: "3/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+install.packages("rmarkdown", type= "source")
+```
+
+```{r}
+setwd("~/github_stuff/personal-website2/")
+rmarkdown::render_site()
+```
+
