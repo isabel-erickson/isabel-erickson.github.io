@@ -5,7 +5,7 @@ title: "Home"
 
 ###Isabel Erickson
 
-I've had the opportunity to conduct independent research and contribute to research projects as an IRTA postbac at the NIH and as an undergraduate student at Swarthmore College. So far, most of my [projects](projects.html) have involved microbiome research, which means that I have plenty of experience managing and analyzing large amounts of data, handling and managing biological samples, and coding. I'm excited to apply these skills to clinical research and am particularly interested in behavioral biology and clinical psychology.
+I've had the opportunity to conduct independent research and contribute to research projects as an IRTA postbac at the NIH and as an undergraduate student at Swarthmore College. So far, most of my [projects](projects.html) have involved microbiome research, which means that I have plenty of experience managing and analyzing large amounts of data, handling and managing biological samples, and coding. 
 
 I also have experience with scientific writing, literature review, experimental design, and with leadership and teaching.
 
