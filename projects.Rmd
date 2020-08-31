@@ -6,7 +6,7 @@ output: pdf_document
 ##Improving Reference-Based Methods of Classifying Metagenomic Sequences
 <img src="supplemented.png" style="float:right;width:400px">
 
-Characterization of the human microbiome using shotgun metagenomics requires mapping microbial reads to libraries of reference genomes. However, proportion of metagenomic reads cannot be mapped to existing reference databases. I conducted independent research to align unmapped shotgun metagenomic reads to reference libraries. I conducted independent research to address this problem. Using BLAST, I aligned 29% of the unmapped DNA from healthy volunteers to public databases. I discovered that diverse environmental contaminatants were contributing to the problem of unmapped DNA in these samples.
+The characterization of the human microbiome using shotgun metagenomics requires mapping microbial reads to libraries of reference genomes. However, a proportion of metagenomic reads cannot be mapped to existing reference databases. I conducted independent research to address this problem by aligning unmapped shotgun metagenomic reads from the human microbiome to public reference libraries. Using BLAST, I aligned 29% of the unmapped DNA from healthy volunteers to public databases. I discovered that diverse environmental contaminatants were contributing to the problem of unmapped DNA in these samples.
 
 At the same time, I cultured thousands of bacterial isolates from clinical samples in an effort to improve characterization of the microbiome's strain diversity.
 

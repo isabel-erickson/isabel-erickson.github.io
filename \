@@ -1,0 +1,14 @@
+update to text of CV and projects page
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .DS_Store
+#	new file:   .Rhistory
+#	modified:   cv.html
+#	modified:   projects.Rmd
+#	modified:   projects.html
+#
